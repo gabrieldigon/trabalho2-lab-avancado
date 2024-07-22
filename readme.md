@@ -32,7 +32,7 @@ Este projeto é uma aplicação web simples implementada em Go. Ele fornece um s
 2. **Clone o Repositório**:
    ```bash
    git clone [URL_DO_REPOSITORIO]
-   cd Lab
+   cd .\trabalho2-lab-avancado\
    ```
 
 3. **Compile e Execute o Servidor:**:
