@@ -11,7 +11,6 @@ Este projeto é uma aplicação web simples implementada em Go. Ele fornece um s
 - **Equipe**: Luciano Uchoa & Gabriel Dias
 - **Tecnologia Utilizada**: Go (Golang)
 
-## Como usar:
   # Registrar chave
    - Digite um valor e uma chave nos campos solicitados
    - Clique no botao salvar.
