@@ -42,5 +42,5 @@ Este projeto é uma aplicação web simples implementada em Go. Ele fornece um s
 
 4. **Acesse o Servidor:**:
     ```
-    Abra seu navegador e acesse http://localhost:8080 para ver a página.
+    Abra seu navegador e acesse http://localhost:8080
     ```
